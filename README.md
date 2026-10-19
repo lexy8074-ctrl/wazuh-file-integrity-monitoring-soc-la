@@ -1,0 +1,1 @@
+# wazuh-file-integrity-monitoring-soc-la
